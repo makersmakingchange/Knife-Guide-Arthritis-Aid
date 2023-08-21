@@ -1,7 +1,7 @@
 # Knife Guide Arthritis Aid
 The Knife Guide Arthritis Aid is a handle that attached to the back of a knife that allows a user to use both hands and requires less grip strength for the same amount of control. It is designed for users with arthritis that have difficulty gripping the handles of knives.
 
-<img src="Photos/knife-guide-arthritis-aid.jpg" width="500" alt="Picture of Knife Guide Arthritis Aid.">
+<img src="Photos/Knife-Guide-Arthritis-Aid.jpg" width="500" alt="Picture of Knife Guide Arthritis Aid.">
 
 ## More info at
 - [Makers Making Change Project Page](https://makersmakingchange.com/project/knife-guide-arthritis-aid/)
